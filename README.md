@@ -1,6 +1,6 @@
 <p dir="auto">
-  <a href="https://www.linkedin.com/in/ju-hyung-kang/" rel="nofollow"><img src="https://camo.githubusercontent.com/01425401bbde55f8073e56643c5829afdfa5c9fe6bbf4f3cf815558ce16cc00b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f79656f6e4b696d2d3041363643323f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JuHyungKang-0A66C2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="mailto:kangjh0722@gmail.com"><img src="https://camo.githubusercontent.com/4cb1a287ab5de20b882d00517b9be07ff6faca59c24655718384c811ba9b741e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6973636f776b69746540676d61696c2e636f6d2d4541343333353f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/kangjh0722@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/ju-hyung-kang/" rel="nofollow"><img src="https://img.shields.io/badge/JuHyungKang-0A66C2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="mailto:kangjh0722@gmail.com"><img src="https://img.shields.io/badge/kangjh0722@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <p dir="auto">
   <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>&nbsp; Hi! I'm a student interested in financial engineering and financial data science.<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><br>
@@ -22,6 +22,6 @@
 </p>
 
 <p dir="auto">
-  <a href="https://www.linkedin.com/in/ju-hyung-kang/" rel="nofollow"><img src="https://camo.githubusercontent.com/01425401bbde55f8073e56643c5829afdfa5c9fe6bbf4f3cf815558ce16cc00b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f79656f6e4b696d2d3041363643323f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JuHyungKang-0A66C2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="mailto:kangjh0722@gmail.com"><img src="https://camo.githubusercontent.com/4cb1a287ab5de20b882d00517b9be07ff6faca59c24655718384c811ba9b741e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6973636f776b69746540676d61696c2e636f6d2d4541343333353f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/kangjh0722@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.linkedin.com/in/ju-hyung-kang/" rel="nofollow"><img src="https://img.shields.io/badge/JuHyungKang-0A66C2?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="mailto:kangjh0722@gmail.com"><img src="https://img.shields.io/badge/kangjh0722@gmail.com-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
