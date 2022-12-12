@@ -1,5 +1,5 @@
 <p dir="auto">
-  <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>&nbsp; Hi! I'm a student interested in financial engineering and financial data science.<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><br>
+  Hi! I'm a student interested in financial engineering and financial data science.<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><br>
   I have worked as a data analyst in a company based in Singapore.<br><br>
   Currently, I am pursuing a graduate study in master's in financial engineering.<br>
  </p>
